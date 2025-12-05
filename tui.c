@@ -1,3 +1,4 @@
+#define CLAY_IMPLEMENTATION
 #include "clay.h"
 #include <stdio.h>
 
